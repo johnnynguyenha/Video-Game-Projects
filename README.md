@@ -1,5 +1,6 @@
 # Video-Game-Projects
 
+Hello! This repo is a collection of all video game projects created by Johnny Nguyen.  
 ## Github Links to all Video Game Projects 🎮
 
 - [Spaceship Game](https://github.com/johnnynguyenha/SpaceshipPygame)
