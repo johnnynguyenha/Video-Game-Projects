@@ -1,6 +1,6 @@
 # Video-Game-Projects
 
-## Github Links to all Video Game Projects 
+## Github Links to all Video Game Projects 🎮
 
 - [Spaceship Game](https://github.com/johnnynguyenha/SpaceshipPygame)
 - [Vampire Survivors Remake](https://github.com/johnnynguyenha/VampireSurvivorsPygame)
